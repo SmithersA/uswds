@@ -4,7 +4,7 @@
 
 The [U.S. Web Design System](https://designsystem.digital.gov) includes a library of open source UI components and a visual style guide for U.S. federal government websites.
 
-This repository is for the Design System itself. We maintain [another repository for the documentation and website](https://github.com/uswds/uswds-site). To see the Design System and documentation on the web, visit [https://designsystem.digital.gov](https://designsystem.digital.gov).
+This repository is for just one specific office within one agency. To see the Design System and documentation on the web, visit [https://designsystem.digital.gov](https://designsystem.digital.gov).
 
 ## Contents
 
