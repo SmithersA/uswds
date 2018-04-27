@@ -1,4 +1,4 @@
-# U.S. Web Design System
+# U.S. Web Design System applied to one specific website
 
 [![CircleCI Build Status](https://circleci.com/gh/uswds/uswds/tree/develop.svg?style=shield)](https://circleci.com/gh/uswds/uswds/tree/develop) [![Test Coverage](https://api.codeclimate.com/v1/badges/c10cd4505d61d161cd3a/test_coverage)](https://codeclimate.com/github/uswds/uswds/test_coverage)
 
@@ -27,7 +27,9 @@ This repository is for the Design System itself. We maintain [another repository
 
 ## Background
 
-The components and style guide of the U.S. Web Design System follows industry-standard web accessibility guidelines and use the best practices of existing style libraries and modern web design. The [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) and [18F](https://18f.gsa.gov/) created the U.S. Web Design System for designers and developers. The U.S. Web Design System is a project of GSA’s [Technology Transformation Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), maintained by the Office of Products and Programs. They are designed for use by government product teams who want to create beautiful, easy-to-use online experiences for the public. To learn more about the project, check out this [blog post](https://18f.gsa.gov/2015/09/28/web-design-standards/) and to view websites and applications check out our list [here](WHO_IS_USING_USWDS.md).
+The components and style guide of this system follows industry-standard web accessibility guidelines and use the best practices of existing style libraries and modern web design. This is a direct adaptation.
+
+The [U.S. Digital Service](https://www.whitehouse.gov/digital/united-states-digital-service) and [18F](https://18f.gsa.gov/) created the U.S. Web Design System for designers and developers. The U.S. Web Design System is a project of GSA’s [Technology Transformation Service](https://www.gsa.gov/about-us/organization/federal-acquisition-service/technology-transformation-services), maintained by the Office of Products and Programs. They are designed for use by government product teams who want to create beautiful, easy-to-use online experiences for the public. To learn more about the project, check out this [blog post](https://18f.gsa.gov/2015/09/28/web-design-standards/) and to view websites and applications check out our list [here](WHO_IS_USING_USWDS.md).
 
 
 ## Recent updates
@@ -111,9 +113,9 @@ There are a few different ways to use the Design System within your project. Whi
   </html>
   ```
 
-We offer both files, the CSS and the JavaScript, in two versions — a minified version, and an un-minified one. (In the examples above, we are using the minified files.) Use the minified files in a production environment or to reduce the file size of your downloaded assets. And the un-minified files are better if you are in a development environment or would like to debug the CSS or JavaScript assets in the browser.
+Both files, the CSS and the JavaScript, in two versions — a minified version, and an un-minified one. (In the examples above, we are using the minified files.) Use the minified files in a production environment or to reduce the file size of downloaded assets. And the un-minified files are better for a development environment or would like to debug the CSS or JavaScript assets in the browser.
 
-And that’s it — you should now be able to copy our code samples into your `index.html` and start using the Design System.
+And that’s it — now copy code samples into your `index.html` and start using the Design System.
 
 ### Install using npm
 
